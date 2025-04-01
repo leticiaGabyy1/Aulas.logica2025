@@ -1,0 +1,111 @@
+problema dos baldes 
+problema 1-você precisa retirar exatamente 7 litros de agua de uma bica, com esses baldes.
+
+pega o balde enche ele (o de 5 litros) passa para o de 3 e fica dois litros no balde, 
+voce joga os tres litros do outro balde fora e os dois litros que ficaram no balde 5 litros vc passa pro de 3 e depois enche o balde 5= total 7 litros
+
+problema 2- com os mesmos baldes diga como fazer pra retirar 4 litros de agua.
+
+enche o de 3 coloca no de 5 enche outro balde de 3 e joga no de 5, nisso vai sobrar 1 litro no balde de 3, 
+depois voce joga os 5 litros fora e joga o balde de 3 que esta com 1 litro voce enche mais um de 3 resultando em 4 litros 
+
+problema do lobo e a ovelha
+
+pega a ovelha e atravessa, volta e pega a couve, vai de novo e tras a ovelha de volta,
+ pega o lobo e leva ao outro lado junto da couve, depois volta pra buscar a ovelha
+
+sequência-executa passos em ordem (uma receita passo a passo)
+
+sequência para uma receita de café
+-pegar água
+-ferve a água
+-pegar a garrafa
+-colocar o filtro na boca da garrafa
+-colocar o coador dentro do filtro
+-coloque o café 
+-coloque a água quente 
+-espere coar e logo depois o café vai estar filtrado e pronto para tomar.
+*coloque açucar se preferir (no preparo ou depois que estiver pronto).
+
+seleção/condição 
+
+tomar decisões em condições
+
+escolher uma roupa para o dia:
+
+- verifique o tempo vi que estava sol
+-vesti meu short e blusa 
+-e fui ao clube
+senão, verifique o clima vi que estava nublado
+-pego uma roupa confortavel e quente
+- e vou assisitr 
+senão, verifique o tempo e vejo que esta chuvoso
+-decido ficar em casa 
+-coloco uma roupa mais quente e deito 
+
+repetição- repete a instrução varias vezes
+-comece no primeiro degrau 
+-enquanto não estiver no ultimo degrau:
+-verefique quantos degraus há acima
+-quando chegar ao topo, pare.
+
+
+
+quando acordo
+-levanto 
+-escovo meus dentes
+-coloco meu uniforme
+-me arrumo
+-se estou com fome
+-como alguma coisa
+-senão, não como nada
+- saio de casa
+-no caminho eu vou andando 
+-praticamente vou reto a maior parte do tempo
+-vejo que não cheguei 
+-continuo andando ate chegar na escola 
+
+
+
+sanduíche:
+-pegue duas fatias de pão
+-coloque elas em uma superficie (mesa)
+-pegue uma faca
+-pegue a maionese 
+-abra a maionese
+-coloque a parte superior (a parte que corta) da faca na maionese
+-tire a faca com um pouco de maionese 
+-passe em uma das fatias do pão 
+-espalhe
+-na outra metade
+-pegue o queijo
+-coloque ele em cima do pão 
+-pegue o presunto e coloque em cima do queijo
+-pegue as fatias e feche elas
+-agora coma o pão  
+
+lavar as mãos:
+-ligue a torneira
+-molhe as mãos
+-passe sabão nas mãos
+-esfregue as mãos 
+-lave entre os dedos 
+-enxague a mão 
+-seque ela usando uma toalha
+
+multiplique numeros:
+-pergunte a pessoa os numeros que ela quer multiplicar
+-depois faça a multiplicação 
+-na sua cabeça some ou use uma calculadora
+-depois chegue ao resultado final
+-fale o resultado que chegou para a pessoa
+
+suco de laranja natural:
+-pegue uma jarra
+-coloque gelo de sua preferência 
+-pegue 10 laranjas
+-cortes as laranjas ao meio
+-utilize uma faca para o corte
+-após cortar esprema a laranja com ajuda de suas mãos ou de um espremedor
+-após remover todo liquido jogue os cascos da laranja fora
+-sirva o suco em copos 

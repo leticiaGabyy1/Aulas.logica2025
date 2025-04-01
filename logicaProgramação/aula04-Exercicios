@@ -1,0 +1,24 @@
+const prompt = require('prompt-sync')();
+//Exercicios04
+
+let nomeAluno = prompt('qual seu nome?')
+let altura = prompt('qual sua altura?')
+let escola = prompt('onde você estuda?')
+let anoAtual = prompt('em que ano você esta?')
+console.log(nomeAluno + altura + escola + anoAtual);
+
+let nomeProfessor = prompt('douglas')
+let materia = prompt('senai-TI')
+let anoIngresso = prompt('2023')
+console.log('douglas' + materia + 2023);
+
+_nomeAluno = prompt('qual seu nome?');
+_altura = parseFloat(prompt('qual sua altura?'));
+_escola = prompt('onde você estuda?');
+_anoAtual = parseInt(prompt('em que ano você esta?'));
+console.log(nomeAluno + altura + escola + anoAtual );
+
+_nomeProfessor = prompt('douglas');
+_materia = prompt('senai');
+_anoIngresso = parseInt(prompt('2023'));
+console.log(_nomeProfessor + materia + 2023);
