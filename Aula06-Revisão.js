@@ -40,10 +40,3 @@ n = n - 1;  //6
 n -= 2;    //4
 
 //Resolução do exercicio da aula anterior 
-let horasPorDia = Number(prompt('Quantas horas trabalhou por dia?'));
-let diasTrabalhados = Number(prompt('Quantos dias trabalhou?'));
-let valorHora = Number(prompt('Qual é o valor da hora?'));
-let totalHoras = diasTrabalhados * horasPorDia;
-let custoTotal = totalHoras * valorHora;
-console.log(`O custo total é de R$ ${custoTotal}`);
-
